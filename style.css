@@ -6,8 +6,8 @@ padding: 0%;
 }
 
 .cabeçalho{
-    background-color: lemonchiffon;
-    color: black;
+    background-color: rgb(23, 197, 209);
+    color: rgb(17, 157, 212);
     display: flex;
     justify-content: space-around;
     align-items: center;
