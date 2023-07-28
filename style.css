@@ -7,7 +7,7 @@ padding: 0%;
 
 .cabeçalho{
     background-color: rgb(23, 197, 209);
-    color: rgb(17, 157, 212);
+    color: rgb(38, 190, 236);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -29,7 +29,7 @@ padding: 0%;
 
 
 .apresentaçao_trabalho{ 
-       background-image: linear-gradient(lemonchiffon, #dd371a);
+       background-image: linear-gradient(rgb(42, 170, 221), #2ca0e4);
     display: flex;
 
 
