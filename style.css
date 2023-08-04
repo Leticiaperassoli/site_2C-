@@ -9,7 +9,7 @@
 }
 
 .pimentas-jogadas{
-    width: 13%;
+    width: 14%;
     padding: 0 0 0 50px;
 }
 
@@ -27,7 +27,7 @@
 .cabeçalho-titulo{
     align-items: center;
     padding: 0 0 0 150px;
-    font-size: 45px;
+    font-size: 50px;
 }
 
 
@@ -42,16 +42,16 @@
 }
 
 .cabeçalho2-div{
-    width: 35%;
+    width: 30%;
     padding-left: 200px;
 }
 
 .pimente-p{
-    padding: 25px 0;
+    padding: 30px 0;
 }
 
 .pimente-pi{
-    padding: 25px 0;
+    padding: 30px 0;
 }
 
 .ano-letivo{
@@ -59,7 +59,7 @@
 }
 
 .pimenta-exemplo{
-    width: 27.5%;
+    width: 30%;
     padding-left: 340px;
     padding-top: 50px;
 }
@@ -105,12 +105,12 @@
 }
 
 .copo1-texto{
-    width: 50%;
+    width: 70%;
     padding: 150px 0 0 50px;
 }
 
 .copo1-texto-2{
-    width: 50%;
+    width: 70%;
     padding: 150px 0 0 50px;
 }
 
@@ -128,7 +128,7 @@
 }
 
 .semana-2-titulo{
-    font-size: 45px;
+    font-size: 60px;
     padding: 0 0 0 200px;
 }
 
@@ -148,7 +148,7 @@
 }
 
 .berçario1-texto{
-    width: 50%;
+    width: 60%;
     padding: 100px 0 0 0;
 }
 
@@ -163,12 +163,12 @@
 }
 
 .suculenta1-texto{
-    width: 50%;
+    width: 60%;
     padding: 100px 0 0 0;
 }
 
 .suculenta1-texto-2{
-    width: 50%;
+    width: 60%;
     padding: 150px 0 0 50px;
 }
 
@@ -183,7 +183,29 @@
 }
 
 .grupo31-texto{
-    width: 50%;
+    width: 60%;
     padding: 100px 0 0 0;
 }
 
+.titulos-semana-3{
+    display: flex;
+}
+
+.semana-3-titulo{
+    font-size: 60px;
+    padding: 0 0 0 200px;
+}
+
+.titulos-semana-4{
+    display: flex;
+}
+
+.semana-4-titulo{
+    font-size: 60px;
+    padding: 0 0 0 200px;
+}
+
+.imagem{
+    width: 15%;
+    padding: 0 0 50px;
+}
