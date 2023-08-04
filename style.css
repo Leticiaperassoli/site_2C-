@@ -1,7 +1,7 @@
 *{
     margin: 0%;
     padding: 0%;
-    color: #08a6ac 
+    background-color: #ba45ddea;
 }
 
 .corpo{
@@ -99,22 +99,22 @@
     display: flex;
 }
 
-.copo-1{
+.copo1{
     width: 13%;
     padding: 0 0 50px;
 }
 
-.copo-1-texto{
+.copo1-texto{
     width: 50%;
     padding: 150px 0 0 50px;
 }
 
-.copo-1-texto-2{
+.copo1-texto-2{
     width: 50%;
     padding: 150px 0 0 50px;
 }
 
-.copos-2{
+.copos2{
     display: flex;
 }
 
@@ -141,13 +141,13 @@
     display: flex;
 }
 
-.berçario-1{
+.berçario1{
     width: 13%;
     padding: 0 0 50px;
 
 }
 
-.berçario-1-texto{
+.berçario1-texto{
     width: 50%;
     padding: 100px 0 0 0;
 }
@@ -156,18 +156,18 @@
     display: flex;
 }
 
-.suculenta-1{
+.suculenta1{
     width: 13%;
     padding: 100px 0 0 0;
 
 }
 
-.suculenta-1-texto{
+.suculenta1-texto{
     width: 50%;
     padding: 100px 0 0 0;
 }
 
-.suculenta-1-texto-2{
+.suculenta1-texto-2{
     width: 50%;
     padding: 150px 0 0 50px;
 }
@@ -176,13 +176,13 @@
     display: flex;
 }
 
-.grupo3-1{
+.grupo31{
     width: 13%;
     padding: 100px 0 0 0;
 
 }
 
-.grupo3-1-texto{
+.grupo31-texto{
     width: 50%;
     padding: 100px 0 0 0;
 }
